@@ -1,0 +1,17 @@
+/* active nav link */
+.active {
+  text-decoration: underline;
+}
+.tasklist:hover {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+.form-control,
+.btn {
+  -webkit-box-shadow: none !important;
+  outline: -webkit-focus-ring-color auto 0px !important;
+}
+.form-control {
+  border: 1px solid gold !important;
+  background: #fffbe6 !important;
+}
